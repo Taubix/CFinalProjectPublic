@@ -1,0 +1,5 @@
+﻿  CovidInfected.cpp
+  FinalProject.cpp
+D:\Users\utilisateur\Desktop\FinalProject\FinalProject\FinalProject.cpp(38,15): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  Génération de code en cours...
+  FinalProject.vcxproj -> D:\Users\utilisateur\Desktop\FinalProject\FinalProject\Debug\FinalProject.exe
